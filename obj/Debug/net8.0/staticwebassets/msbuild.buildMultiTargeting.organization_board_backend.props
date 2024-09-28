@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/organization_board_backend.props" />
+</Project>
